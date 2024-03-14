@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuukFilart
 - 👀 I’m interested in Innovation, Artificial Intelligence, Linked Data and Data Visualization. 
 - 🌱 I’m continously learning!
-- 💞️ I’m looking to collaborate on innovations in the field of Artificial Intelligence. 
+- 💞️ Me and my team are open to collaborate on innovations in the field of Artificial Intelligence. 
 - 📫 How to reach me luuk.filart@cgi.com  
 - ⚡ Fun fact: Will ask my friends to come up with a fun one. 
 
